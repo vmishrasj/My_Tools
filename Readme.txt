@@ -11,7 +11,7 @@
    cybersecurity and network security
 
 ## you can find me on Github - https://github.com/vmishrasj
-## On TryHackMe - https://tryhackme.com/vmishrasj
+## On TryHackMe - https://tryhackme.com/p/vmishrasj
 ## On Twitter - https://tryhackme.com/hmishrasj
 
 ## Thank you so much...
